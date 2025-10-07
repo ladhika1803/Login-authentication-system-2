@@ -125,4 +125,4 @@ Role-based access control (Admin, User, etc.).
 
 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this project
